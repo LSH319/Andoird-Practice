@@ -1,0 +1,2 @@
+rootProject.name = "MobileGCS_LSH"
+include ':app'
